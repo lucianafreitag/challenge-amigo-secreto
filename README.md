@@ -1,6 +1,6 @@
 # ✨🎮 Jogo Amigo Secreto 🎮✨
 
-<img src="assets/imagem-interface-jogo-amigo-secreto.png">
+<img src="assets/interface-jogo-amigo-secreto.png">
 
 ## Sobre o Projeto
 O Amigo Secreto é um jogo simples e divertido que permite aos usuários adicionar nomes de amigos em uma lista e realizar um sorteio aleatório para determinar quem é o amigo secreto de cada um. Este projeto foi desenvolvido como parte do programa One Oracle Next Education, sob a orientação dos professores da Alura.

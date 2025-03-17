@@ -5,7 +5,7 @@
     --color-button: #fe652b;
     --color-button-hover: #e55720;
     --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-white: #ffffff;
 }
 
 /* Estilos gerais */
@@ -37,6 +37,9 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px 0 0;
+    background-image: url('assets/logo amor em mimos_fundo transparente.png'); /* Caminho para a nova imagem */
+    background-size: cover; /* Ajusta a imagem para cobrir todo o espaço */
+    background-position: center; /* Centraliza a imagem */
 }
 
 /* Seção de entrada */
@@ -159,4 +162,42 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+/* Adicione o código abaixo para ajustar a aparência dos botões "Remover" */
+.name-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style-type: none;
+    padding: 0;
+    justify-content: center; /* Centraliza a lista de nomes */
+}
+
+.name-list li {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.name-list button {
+    background-color: #f44336; /* Red */
+    border: none;
+    color: white;
+    padding: 2px 5px; /* Smaller padding */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px; /* Preserve font size */
+    margin-left: 10px; /* Space between button and name */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.name-list button:hover {
+    background-color: #d32f2f; /* Darker red */
 }
