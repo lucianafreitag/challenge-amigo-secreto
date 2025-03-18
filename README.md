@@ -34,7 +34,7 @@ O Amigo Secreto é um jogo simples e divertido que permite aos usuários adicion
 * Jogo divertido e ideal para confraternizações e festas.
 
 ## Acesso ao projeto
-[Jogo Amigo Secreto](https://lucianafreitag.github.io/challenge-amigo-secreto.github.io/) 
+[Jogo Amigo Secreto](https://lucianafreitag.github.io/challenge-amigo-secreto/) 
 
 ## Créditos e Agradecimentos
 Estou muito alegre por fazer parte do programa <a href="https://www.oracle.com/br/education/oracle-next-education/">ONE - Oracle Next Education</a>. Agradeço a **Alura Latam**, **Oracle** e aos **colegas da comunidade do programa**, que estiveram prontos a me ajudar quando precisei.
